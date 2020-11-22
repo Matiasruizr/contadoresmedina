@@ -1,0 +1,30 @@
+.banner_informativo img {
+    width: 100%;
+}
+
+#carousel {
+    height: 350px;
+    overflow: hidden;
+}
+.servicios_1 {
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+.servicios_1 div {
+    height: 450px;
+    overflow: hidden;
+}
+.servicios_1 div:nth-child(1) {
+    background: gray;
+  }
+.servicios_1 div:nth-child(2) {
+    background: darkgray;
+}
+.servicios_1 div:nth-child(3) {
+    background: lightgray;
+}
+
+
+.bg_grey {
+    background: grey;
+}
